@@ -1,0 +1,434 @@
+.navbar1{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(241, 241, 241);
+    display: flex;
+    justify-content: center;
+}
+.navbar1 div{
+   border: 1px solid gray;
+   background-color: rgb(241, 241, 241);
+   padding-top: 0.6%;  
+}
+#l1:hover,#l2:hover,#l3:hover,#l4:hover,#l5:hover,#l6:hover{
+    height: 53px;
+}
+
+
+.navbar2{
+    width: 100%;
+    height: 42px;
+    background-color: white;
+    /* display: flex;    */
+}
+.largediv{
+    background-color: blue;
+    height: 42px;
+    width: 773.5px;
+    position: relative;
+    left: 21.2%;
+     display: flex;
+    /* justify-content: space-between;  */
+}
+.largediv div{
+    padding-top: 4px;
+    height: 42px;
+    width: 115px;
+    /* border: 1px solid rgb(226, 18, 18); */
+    background-color: white;
+    text-align: center;    
+ }
+
+ .navbar3{
+    width: 100%;
+    height: 52px;
+    background-color: white;
+    /* position: -webkit-sticky;
+    position: sticky;
+    top: 0; */
+    width: 100%;
+        
+    /* background-color: rgb(241, 241, 241); */
+    /* display: flex;    */
+}
+.largediv2{
+    background-color: blue;
+    height: 52px;
+    width: 773.5px;
+    position: relative;
+    left: 21.2%;
+     display: flex;
+    /* justify-content: space-between;  */
+}
+.largediv2 div{
+    height: 52px;
+    width: 115px;
+    /* border: 1px solid rgb(226, 18, 18); */
+    background-color:white;
+    text-align: center;    
+ }
+
+.div0{
+    width: 100%;
+    height: 2550px;
+    background-image: url("images/R.jpg");
+    /* background-color: rgb(14, 13, 13); */
+
+}
+
+.div1{
+    width: 90%;
+    height: auto;
+    background-image: url("images/bg.jpeg");
+    
+    /* background-color: brown; */
+    margin: 10px auto;
+}
+
+.div2{
+    width: 75%;
+    height: 770px;
+    background-color: white;
+    margin: 10px auto;
+    padding-left: 10px;   
+}
+.div3{
+    
+    
+    width: 23%;
+    position: absolute;
+    right: 17%;
+    top: 29%;
+}
+.div4{   
+    width: 23%;
+    height: 40%;
+    position: absolute;
+    right: 17%;
+    top: 56%;
+}
+.div5{
+  
+    width: 23%;
+    height: 40%;
+    position: absolute;
+    right: 17%;
+    top: 630px;
+}
+.div6{
+    
+    width: 15%;
+    height: 25%;
+    position: relative;
+    left: 32%;
+    top: -41.5%
+}
+.div7{
+    width: 75%;
+    height: 1180px;
+    background-color: white;
+    margin: 10px auto;
+    padding-left: 10px;
+     
+}
+
+.abc{
+    padding-top: 80px;
+    position: relative; 
+    top: 60px; 
+    width: 100px;
+}
+.abc1{
+   
+    width: 100px;
+    position: relative;
+    left: 33.5%;
+    top: -450px;
+}
+.abc2{
+    width: 100px;
+    position: relative;
+    left: 67%;
+    top: -850px;
+
+}
+.abc3{
+    width: 100px;
+    padding-top: 50px;
+    position: relative;
+    top: -890px;
+}
+.abc4{
+    width: 100px;
+    position: relative;
+    left: 33.5%;
+    top: -1350px;
+
+}
+.abc5{
+    width: 100px;
+    padding-top: 50px;
+    position: relative;
+    top: -1430px;
+    left: 67%;
+}
+.abc6{
+    width: 100px;
+    padding-top: 50px;
+    position: relative;
+    top: -1880px;
+    left: 33.5%;
+
+}
+.abc7{
+    width: 100px;
+    padding-top: 50px;
+    position: relative;
+    top: -1950px;
+    left: 67%;
+}
+.footer{
+    background-color: black;
+    width: 100%;
+    height: 250px;
+    padding: 20px;
+
+}
+.line1{
+    border-left: 2px solid grey; 
+    height: 220px; 
+    width: 1%;
+    position: relative;
+    left: 40%;
+    top: -220px;
+}
+.fdiv{
+    width:280px;
+    height: 100px;
+    position: relative;
+    left:38% ;
+    top: -440px;
+
+}
+.fdiv li{
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.line2{
+    border-left: 2px solid grey; 
+    height: 220px; 
+    width: 1%;
+    position: relative;
+    left: 58.9%;
+    top: -540px;
+}
+.fdiv2{
+    /* background-color: blue; */
+    width:280px;
+    height: 220px;
+    position: relative;
+    left:59.9% ;
+    top: -755px;
+
+}
+.fdiv2 img{
+    margin-top: 10%;
+}
+
+.fdiv2 ul{
+    
+    list-style: none;
+    position: relative;
+    left: 106px;
+    top: -65px;
+
+}
+
+.fdiv2 a{
+    color: rgb(43, 41, 41);
+}
+
+.fdiv2 p{
+    position: relative;
+    top: -80px;
+}
+
+h5,h3,h2{
+    color: white;
+}
+
+
+.a:hover{
+    background-color: rgb(219, 7, 7);
+
+}
+
+#b:hover{
+    background-color: rgb(219, 151, 25);
+}
+#c:hover{
+    background-color: rgb(236, 236, 26);
+}
+#d:hover{
+    background-color: green;
+}
+#e:hover{
+    background-color: rgb(111, 195, 223);
+}
+#f:hover{
+    background-color: blue;
+}
+
+#d1{
+    background-color: rgb(162, 88, 231);
+}
+#d1:hover{
+    background-color: blueviolet;
+}
+#d2{
+    padding: 13.5px; 
+    background-color: rgb(19, 19, 167);
+}
+#d2:hover{
+    background-color: rgb(0, 110, 255);
+}
+
+#d3{
+    background-color: rgb(235, 235, 65);;
+}
+#d3:hover{
+    background-color: rgb(165, 163, 17);
+}
+#d4{
+    background-color: burlywood;
+}
+#d4:hover{
+    background-color: rgb(180, 132, 68);
+}
+#d5{
+    background-color: rgb(214, 87, 87);
+}
+#d5:hover{
+    background-color: rgb(207, 31, 31);
+}
+#d6{
+    background-color: rgb(45, 182, 45);
+}
+#d6:hover{
+    background-color: rgb(50, 131, 50);
+}
+.hfooter>li:hover{
+    color: white;
+}
+
+
+
+  /******************* Carousel********************************/
+  .Pokeimg {
+    width: 280px;
+
+    margin: 10px auto;
+    background-color: rgb(82, 82, 82);
+}
+.cardspok{
+    display: flex;
+   
+}
+.poke{
+    text-align: center;
+    width: 400px;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    
+  
+
+}
+.carousel-text
+{
+    display: flex;
+    font-size: 22px;
+}
+.button-carosuel1
+{
+    background-color: black;
+    color: white;
+    border-radius: 5px 5px 0px 0px;
+    border: 3px solid black;
+    width: 220px;
+    padding-top: 5px;
+
+   
+}
+.button-carosuel
+{
+    margin-top: -6%;
+    margin-left: 30%;
+   justify-content: center;
+}
+.lef
+{
+   margin-left: 35px;
+}
+.righ
+{
+   margin-left: 130px;
+}
+.buto
+{
+    background-color: orange;
+    width: 75px;
+    height: 30px;
+    margin-left: 30px;
+}
+.car-rig
+{
+    margin-left: 10px;
+}
+.buto1
+{
+    background-color: lightgreen;
+    border: 20px;
+    width: 50px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+.buto2
+{
+    background-color: goldenrod;
+    border: 20px;
+    width: 60px;
+    height: 30px;
+    margin-left: 5px;
+}
+
+.explore
+{
+    background-color: black;
+    margin-top: 1%;
+    border-radius: 10px;
+    margin-left: 70%;
+    height: 50px;
+
+}
+.explore>a
+{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
